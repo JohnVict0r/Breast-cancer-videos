@@ -8,4 +8,4 @@ O notebook contém tudo o que você vê no vídeo: código, saída, imagens e co
 
 Você pode assistir a [playlist inteira](https://www.youtube.com/playlist?list=PLBY1_yYE5PTb2P7Ek4uW20t5fQMoBymdL) no YouTube.
 
-[![Primeiros passos com o dataset breast-cancer](http://img.youtube.com/vi/ARnYyJoTFZc/0.jpg)](http://www.youtube.com/watch?v=ARnYyJoTFZc "Primeiros passos com o dataset breast-cancer")
+[![Primeiros passos com o dataset breast-cancer](http://img.youtube.com/vi/ARnYyJoTFZc/0.jpg)](https://www.youtube.com/playlist?list=PLBY1_yYE5PTb2P7Ek4uW20t5fQMoBymdL"Primeiros passos com o dataset breast-cancer")
