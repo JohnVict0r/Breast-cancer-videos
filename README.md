@@ -2,7 +2,7 @@
 
 Esta série de vídeos ensinará como resolver problemas de aprendizado de máquina usando a popular biblioteca scikit-learn do Python.
 
-Cada vídeo do tutorial possui um notebook Jupyter correspondente. 
+Cada vídeo do tutorial possui um Jupyter notebook correspondente. 
 
 O notebook contém tudo o que você vê no vídeo: código, saída, imagens e comentários.
 
